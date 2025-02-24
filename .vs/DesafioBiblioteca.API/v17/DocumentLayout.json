@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.infrastructure\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|solutionrelative:desafiobiblioteca.infrastructure\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|solutionrelative:desafiobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureModule.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
+              "RelativeToolTip": "DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T22:19:17.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Program.cs",
+              "RelativeToolTip": "DesafioBiblioteca\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T21:50:33.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

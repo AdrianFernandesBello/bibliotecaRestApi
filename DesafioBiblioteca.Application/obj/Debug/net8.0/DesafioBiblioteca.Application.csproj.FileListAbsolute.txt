@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Application.deps.json
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Application.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Application.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Core.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Core.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioB.50A97A01.Up2Date
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\refint\DesafioBiblioteca.Application.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\DesafioBiblioteca.Application.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Application\obj\Debug\net8.0\ref\DesafioBiblioteca.Application.dll

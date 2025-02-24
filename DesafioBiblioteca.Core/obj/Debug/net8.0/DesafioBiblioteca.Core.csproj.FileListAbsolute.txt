@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\bin\Debug\net8.0\DesafioBiblioteca.Core.deps.json
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\bin\Debug\net8.0\DesafioBiblioteca.Core.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\bin\Debug\net8.0\DesafioBiblioteca.Core.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\refint\DesafioBiblioteca.Core.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\ref\DesafioBiblioteca.Core.dll

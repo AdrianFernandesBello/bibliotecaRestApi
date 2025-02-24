@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.deps.json
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.runtimeconfig.json
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\bin\Debug\net8.0\DesafioBiblioteca.Core.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\bin\Debug\net8.0\DesafioBiblioteca.Core.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioB.B370E844.Up2Date
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\refint\DesafioBiblioteca.Infrastructure.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.genruntimeconfig.cache
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\ref\DesafioBiblioteca.Infrastructure.dll
