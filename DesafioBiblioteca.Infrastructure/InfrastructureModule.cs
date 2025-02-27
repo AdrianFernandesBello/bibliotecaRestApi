@@ -31,7 +31,7 @@ namespace DevFreela.Infrastructure
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
             services.AddScoped<IEmprestimoRepository, EmprestimoRepository>();
-            //services.AddScoped<ILivroRepository, LivroRepository>();
+            services.AddScoped<ILivroRepository, LivroRepository>();
             //services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
 

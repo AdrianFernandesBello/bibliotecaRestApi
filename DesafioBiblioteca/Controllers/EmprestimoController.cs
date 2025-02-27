@@ -1,10 +1,12 @@
 ﻿using DesafioBiblioteca.Application.Commands.DeleteEmprestimo;
 using DesafioBiblioteca.Application.Commands.InsertEmprestimo;
+using DesafioBiblioteca.Application.Commands.PostMarkEmprestimo;
 using DesafioBiblioteca.Application.Commands.UpdateEmprestimo;
 using DesafioBiblioteca.Application.Queries.GetAllEmprestimos;
 using DesafioBiblioteca.Application.Queries.GetByIdEmprestimos;
 using DesafioBiblioteca.Infrastructure.Persistence;
 using MediatR;
+using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioBiblioteca.API.Controllers
@@ -88,6 +90,19 @@ namespace DesafioBiblioteca.API.Controllers
             return NoContent();
         }
 
+        //POST api/emprestimo/1/MarkAtrasado
+        [HttpPost ("{id}/MarkAtrasado")]
+        public async Task<IActionResult> PostAtrasado(int id, CreateStatusInputCommand command)
+        {
+            var result = await _mediator.Send (command);
+
+            if (!result.IsSucess)
+            {
+                return BadRequest(result.Message);
+            }
+
+            return Created();
+        }
 
     }
 }

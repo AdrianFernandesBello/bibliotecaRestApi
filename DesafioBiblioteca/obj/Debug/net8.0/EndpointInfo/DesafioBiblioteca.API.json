@@ -130,6 +130,48 @@
         }
       }
     },
+    "/api/emprestimo/{id}/MarkAtrasado": {
+      "post": {
+        "tags": [
+          "Emprestimo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateStatusInputCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateStatusInputCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateStatusInputCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/livro": {
       "get": {
         "tags": [
@@ -346,6 +388,19 @@
   },
   "components": {
     "schemas": {
+      "CreateStatusInputCommand": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "status": {
+            "$ref": "#/components/schemas/EmprestimoEnum"
+          }
+        },
+        "additionalProperties": false
+      },
       "Emprestimo": {
         "type": "object",
         "properties": {

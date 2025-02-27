@@ -79,6 +79,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "DesafioBiblioteca.API.Controllers.EmprestimoController",
+    "Method": "PostAtrasado",
+    "RelativePath": "api/emprestimo/{id}/MarkAtrasado",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "DesafioBiblioteca.Application.Commands.PostMarkEmprestimo.CreateStatusInputCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "DesafioBiblioteca.API.Controllers.LivroController",
     "Method": "GetAll",
     "RelativePath": "api/livro",

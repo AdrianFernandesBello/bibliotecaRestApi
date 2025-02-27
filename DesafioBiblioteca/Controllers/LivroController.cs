@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using DesafioBiblioteca.Infrastructure.Persistence;
+using MediatR;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioBiblioteca.API.Controllers
@@ -7,10 +9,20 @@ namespace DesafioBiblioteca.API.Controllers
     [ApiController]
     public class LivroController : ControllerBase
     {
+        private readonly IMediator _mediator;
+        private readonly BibliotecaDbContext _context;
+
+        public LivroController(BibliotecaDbContext context, IMediator mediator)
+        {
+            _mediator = mediator;
+            _context = context;
+        }
+
         //GET api/livro
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
+
             return Ok();
         }
 

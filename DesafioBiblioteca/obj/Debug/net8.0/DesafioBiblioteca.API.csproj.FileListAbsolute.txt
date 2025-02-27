@@ -97,3 +97,4 @@ C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca\bin\Debug\net
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca\bin\Debug\net8.0\DesafioBiblioteca.Application.pdb
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca\bin\Debug\net8.0\DesafioBiblioteca.Infrastructure.pdb
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca\bin\Debug\net8.0\DesafioBiblioteca.Core.pdb
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca\obj\Debug\net8.0\DesafioBiblioteca.API.sourcelink.json

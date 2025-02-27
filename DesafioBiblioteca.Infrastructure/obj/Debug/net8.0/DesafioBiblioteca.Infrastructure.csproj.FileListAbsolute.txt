@@ -15,3 +15,4 @@ C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructur
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.pdb
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.genruntimeconfig.cache
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\ref\DesafioBiblioteca.Infrastructure.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Infrastructure\obj\Debug\net8.0\DesafioBiblioteca.Infrastructure.sourcelink.json
