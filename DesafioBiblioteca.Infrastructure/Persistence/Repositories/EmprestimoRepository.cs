@@ -36,7 +36,8 @@ namespace DesafioBiblioteca.Infrastructure.Persistence.Repositories
                 .Include(x => x.IdUsuario)
                 .Include(x => x.IdLivro)
                 .Include(x => x.DataEmprestimo)
-                .Include(x => x.DataDevolução)
+                .Include(x => x.Status)
+                .Include(x => x.Valor)
                 .ToListAsync();
 
             return emprestimos;
@@ -49,6 +50,9 @@ namespace DesafioBiblioteca.Infrastructure.Persistence.Repositories
                 .Include (x => x.IdLivro)
                 .Include(x => x.DataEmprestimo)
                 .Include(x => x.DataDevolução)
+                .Include(x => x.Valor)
+                .Include(x => x.Status)
+                .Include(x => x.PagoEm)
                 .SingleOrDefaultAsync(x => x.Id == id);
 
             return emprestimoid;

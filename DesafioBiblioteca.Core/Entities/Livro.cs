@@ -21,5 +21,13 @@ namespace DesafioBiblioteca.Core.Entities
         public string ISBN { get; set; }
         public DateTime DataPublicação { get;  set; }
         public ICollection<Emprestimo> Emprestimos { get;  set; }
+
+
+        public void Update(string autor, string titulo, string isbn)
+        {
+            Autor = autor;
+            Titulo = titulo;
+            ISBN = isbn;
+        }
     }
 }

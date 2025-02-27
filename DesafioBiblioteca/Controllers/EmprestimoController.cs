@@ -6,7 +6,6 @@ using DesafioBiblioteca.Application.Queries.GetAllEmprestimos;
 using DesafioBiblioteca.Application.Queries.GetByIdEmprestimos;
 using DesafioBiblioteca.Infrastructure.Persistence;
 using MediatR;
-using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioBiblioteca.API.Controllers
@@ -55,14 +54,12 @@ namespace DesafioBiblioteca.API.Controllers
         [HttpPut ("{id}")]
         public async Task<IActionResult> Update(int id, UpdateEmprestimoCommand command)
         {
-            var empretimoid = _context.Emprestimo.SingleOrDefault(x => x.Id == id);
-            if (empretimoid == null)
-            {
-                return BadRequest(new {message = "Id nao existe"});
-            }
+            var result = await _mediator.Send(command);
 
-            _context.Emprestimo.Update(empretimoid);
-            await _context.SaveChangesAsync();
+            if (!result.IsSuccess)
+            {
+                return BadRequest(result.Message);
+            }
 
             return NoContent();
         }

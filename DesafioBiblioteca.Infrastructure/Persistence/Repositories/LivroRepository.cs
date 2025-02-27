@@ -1,5 +1,6 @@
 ﻿using DesafioBiblioteca.Core.Entities;
 using DesafioBiblioteca.Core.Repositories;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,24 +11,45 @@ namespace DesafioBiblioteca.Infrastructure.Persistence.Repositories
 {
     public class LivroRepository : ILivroRepository
     {
-        public Task<int> Add(Livro livro)
+        private readonly BibliotecaDbContext _context;
+        public LivroRepository(BibliotecaDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+        public async Task<int> Add(Livro livro)
+        {
+            await _context.Livro.AddAsync(livro);
+            await _context.SaveChangesAsync();
+
+            return livro.Id;
         }
 
-        public Task<List<Livro>> GetAll()
+        public async Task<List<Livro>> GetAll()
         {
-            throw new NotImplementedException();
+            var livros = await _context.Livro
+                .Include(x => x.Titulo)
+                .Include(x => x.Autor)
+                .ToListAsync();
+
+            return livros;
         }
 
-        public Task<Livro> GetById(int id)
+        public async Task<Livro> GetById(int id)
         {
-            throw new NotImplementedException();
+            var livro = await _context.Livro
+                .Include(x => x.Titulo)
+                .Include(x => x.Autor)
+                .Include(x => x.ISBN)
+                .Include(x=> x.DataPublicação)
+                .SingleOrDefaultAsync( x => x.Id == id);
+
+            return livro;
         }
 
-        public Task Update(Livro livro)
+        public async Task Update(Livro livro)
         {
-            throw new NotImplementedException();
+            _context.Livro.Update(livro);
+            await _context.SaveChangesAsync();
         }
     }
 }

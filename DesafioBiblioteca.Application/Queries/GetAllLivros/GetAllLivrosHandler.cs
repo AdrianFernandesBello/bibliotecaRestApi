@@ -8,8 +8,8 @@ namespace DesafioBiblioteca.Application.Queries.GetAllLivros
     public class GetAllLivrosHandler : IRequestHandler<GetAllLivrosQuery, ResultViewModel>
     {
         private readonly BibliotecaDbContext _context;
-        private readonly IEmprestimoRepository _repository;
-        public GetAllLivrosHandler(BibliotecaDbContext context, IEmprestimoRepository repository)
+        private readonly ILivroRepository _repository;
+        public GetAllLivrosHandler(BibliotecaDbContext context, ILivroRepository repository)
         {
             _repository = repository;
             _context = context;

@@ -1,15 +1,17 @@
-﻿using DesafioBiblioteca.Core.Entities;
+﻿using DesafioBiblioteca.Application.Models;
+using DesafioBiblioteca.Core.Entities;
+using MediatR;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesafioBiblioteca.Application.Models
+namespace DesafioBiblioteca.Application.Commands.InsertLivro
 {
-    public class LivrosItemViewModel
+    public class InsertLivroCommand : IRequest<ResultViewModel<int>>
     {
-        public LivrosItemViewModel(string autor, string titulo, string iSBN, DateTime dataPublicação)
+        public InsertLivroCommand(string autor, string titulo, string iSBN, DateTime dataPublicação)
         {
             Autor = autor;
             Titulo = titulo;
@@ -22,8 +24,6 @@ namespace DesafioBiblioteca.Application.Models
         public string ISBN { get; set; }
         public DateTime DataPublicação { get; set; }
 
-
-        public static LivrosItemViewModel FromEntity(Livro livro) => new(livro.Autor, livro.Titulo, livro.ISBN, livro.DataPublicação);
-
+        public Livro ToEntity() => new (Autor, Titulo, ISBN, DataPublicação);
     }
 }

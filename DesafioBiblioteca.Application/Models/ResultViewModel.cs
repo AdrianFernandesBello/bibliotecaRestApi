@@ -17,6 +17,7 @@ namespace DesafioBiblioteca.Application.Models
 
         public bool IsSucess { get; private set; }
         public string Message { get; private set; }
+        public bool IsSuccess { get; set; }
 
         public static ResultViewModel Sucess() => new ResultViewModel();
         public static ResultViewModel Error(string message) => new(false, message);

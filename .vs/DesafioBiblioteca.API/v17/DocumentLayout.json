@@ -7,72 +7,24 @@
       "RelativeMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|solutionrelative:desafiobiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\commands\\deleteemprestimo\\deleteemprestimocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\commands\\deleteemprestimo\\deleteemprestimocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\commands\\deletelivro\\deletelivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\commands\\deletelivro\\deletelivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\queries\\getalllivros\\getalllivrosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\queries\\getalllivros\\getalllivrosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\commands\\insertlivro\\insertlivrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\commands\\insertlivro\\insertlivrohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D551F48-2AEE-4C49-A923-FDF80ED85F88}|DesafioBiblioteca.Core\\DesafioBiblioteca.Core.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.core\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D551F48-2AEE-4C49-A923-FDF80ED85F88}|DesafioBiblioteca.Core\\DesafioBiblioteca.Core.csproj|solutionrelative:desafiobiblioteca.core\\repositories\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\commands\\insertemprestimo\\insertemprestimohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\commands\\insertemprestimo\\insertemprestimohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.infrastructure\\persistence\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|solutionrelative:desafiobiblioteca.infrastructure\\persistence\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.infrastructure\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|solutionrelative:desafiobiblioteca.infrastructure\\infrastructuremodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.infrastructure\\persistence\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|solutionrelative:desafiobiblioteca.infrastructure\\persistence\\repositories\\emprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D551F48-2AEE-4C49-A923-FDF80ED85F88}|DesafioBiblioteca.Core\\DesafioBiblioteca.Core.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.core\\repositories\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D551F48-2AEE-4C49-A923-FDF80ED85F88}|DesafioBiblioteca.Core\\DesafioBiblioteca.Core.csproj|solutionrelative:desafiobiblioteca.core\\repositories\\iemprestimorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.infrastructure\\desafiobiblioteca.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CC103F73-8B5F-426C-9A32-07E9060268C5}|DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj|solutionrelative:desafiobiblioteca.infrastructure\\desafiobiblioteca.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|solutionrelative:desafiobiblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\queries\\getallemprestimos\\getallemprestimohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\queries\\getallemprestimos\\getallemprestimohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\models\\livrositemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\models\\livrositemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\queries\\getallemprestimos\\getallemprestimoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\queries\\getallemprestimos\\getallemprestimoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\models\\emprestimoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\models\\emprestimoitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5D551F48-2AEE-4C49-A923-FDF80ED85F88}|DesafioBiblioteca.Core\\DesafioBiblioteca.Core.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.core\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D551F48-2AEE-4C49-A923-FDF80ED85F88}|DesafioBiblioteca.Core\\DesafioBiblioteca.Core.csproj|solutionrelative:desafiobiblioteca.core\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\commands\\insertlivro\\insertlivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\commands\\insertlivro\\insertlivrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|solutionrelative:desafiobiblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca.application\\commands\\postmarkemprestimo\\createstatusinputcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C6D7027-655F-4CFD-A223-CC8C38DF942E}|DesafioBiblioteca.Application\\DesafioBiblioteca.Application.csproj|solutionrelative:desafiobiblioteca.application\\commands\\postmarkemprestimo\\createstatusinputcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|c:\\users\\user\\source\\repos\\desafiobiblioteca.api\\desafiobiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0189B4CE-39BD-40C4-8C91-B104E57DDCD5}|DesafioBiblioteca\\DesafioBiblioteca.API.csproj|solutionrelative:desafiobiblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,97 +34,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\EmprestimoRepository.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\EmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\EmprestimoRepository.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\EmprestimoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "InsertLivroHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroHandler.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroHandler.cs",
+              "RelativeToolTip": "DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:27:21.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\LivroRepository.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\LivroRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\LivroRepository.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Infrastructure\\Persistence\\Repositories\\LivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:26:57.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ILivroRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Core\\Repositories\\ILivroRepository.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Core\\Repositories\\ILivroRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Core\\Repositories\\ILivroRepository.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Core\\Repositories\\ILivroRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:23:28.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IEmprestimoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Core\\Repositories\\IEmprestimoRepository.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Core\\Repositories\\IEmprestimoRepository.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Core\\Repositories\\IEmprestimoRepository.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Core\\Repositories\\IEmprestimoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:23:25.083Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InfrastructureModule.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Infrastructure\\InfrastructureModule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:19:17.008Z",
+              "WhenOpened": "2025-02-27T18:37:32.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DeleteEmprestimoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\DeleteEmprestimo\\DeleteEmprestimoCommand.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Commands\\DeleteEmprestimo\\DeleteEmprestimoCommand.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\DeleteEmprestimo\\DeleteEmprestimoCommand.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Commands\\DeleteEmprestimo\\DeleteEmprestimoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "DeleteLivroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\DeleteLivro\\DeleteLivroCommand.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Commands\\DeleteLivro\\DeleteLivroCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\DeleteLivro\\DeleteLivroCommand.cs",
+              "RelativeToolTip": "DesafioBiblioteca.Application\\Commands\\DeleteLivro\\DeleteLivroCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:31:59.515Z",
+              "WhenOpened": "2025-02-27T18:35:59.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllLivrosQuery.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Queries\\GetAllLivros\\GetAllLivrosQuery.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Queries\\GetAllLivros\\GetAllLivrosQuery.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Queries\\GetAllLivros\\GetAllLivrosQuery.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Queries\\GetAllLivros\\GetAllLivrosQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wE8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:05:17.326Z",
+              "WhenOpened": "2025-02-27T18:32:44.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertEmprestimoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\InsertEmprestimo\\InsertEmprestimoHandler.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Commands\\InsertEmprestimo\\InsertEmprestimoHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\InsertEmprestimo\\InsertEmprestimoHandler.cs",
+              "RelativeToolTip": "DesafioBiblioteca.Application\\Commands\\InsertEmprestimo\\InsertEmprestimoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:22:34.552Z",
               "EditorCaption": ""
             },
             {
@@ -183,139 +96,23 @@
               "RelativeDocumentMoniker": "DesafioBiblioteca\\Controllers\\LivroController.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Controllers\\LivroController.cs",
               "RelativeToolTip": "DesafioBiblioteca\\Controllers\\LivroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T00:04:01.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DesafioBiblioteca.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj",
-              "RelativeToolTip": "DesafioBiblioteca.Infrastructure\\DesafioBiblioteca.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-27T00:22:53.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "LivrosItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Models\\LivrosItemViewModel.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Models\\LivrosItemViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Models\\LivrosItemViewModel.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Models\\LivrosItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "InsertLivroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroCommand.cs",
+              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroCommand.cs",
+              "RelativeToolTip": "DesafioBiblioteca.Application\\Commands\\InsertLivro\\InsertLivroCommand.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:10:52.425Z",
+              "WhenOpened": "2025-02-27T18:15:29.294Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EmprestimoItemViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Models\\EmprestimoItemViewModel.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Models\\EmprestimoItemViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Models\\EmprestimoItemViewModel.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Models\\EmprestimoItemViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:15:29.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Livro.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Core\\Entities\\Livro.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Core\\Entities\\Livro.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Core\\Entities\\Livro.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Core\\Entities\\Livro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:11:11.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetAllEmprestimoHandler.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoHandler.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoHandler.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoHandler.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:06:17.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetAllEmprestimoQuery.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoQuery.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoQuery.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoQuery.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Queries\\GetAllEmprestimos\\GetAllEmprestimoQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T00:06:15.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Program.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Program.cs",
-              "RelativeToolTip": "DesafioBiblioteca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:50:33.265Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateStatusInputCommand.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\PostMarkEmprestimo\\CreateStatusInputCommand.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca.Application\\Commands\\PostMarkEmprestimo\\CreateStatusInputCommand.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca.Application\\Commands\\PostMarkEmprestimo\\CreateStatusInputCommand.cs",
-              "RelativeToolTip": "DesafioBiblioteca.Application\\Commands\\PostMarkEmprestimo\\CreateStatusInputCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:30:14.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EmprestimoController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
-              "RelativeDocumentMoniker": "DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
-              "RelativeToolTip": "DesafioBiblioteca\\Controllers\\EmprestimoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:26:29.755Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\appsettings.json",
-              "RelativeDocumentMoniker": "DesafioBiblioteca\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\DesafioBiblioteca.API\\DesafioBiblioteca\\appsettings.json",
-              "RelativeToolTip": "DesafioBiblioteca\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-25T13:14:37.47Z"
             }
           ]
         }
