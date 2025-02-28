@@ -32,7 +32,7 @@ namespace DevFreela.Infrastructure
         {
             services.AddScoped<IEmprestimoRepository, EmprestimoRepository>();
             services.AddScoped<ILivroRepository, LivroRepository>();
-            //services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+            services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 
 
             return services;

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioBiblioteca.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a60b04c2f15b022e4b951834c5775f2107532804")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aeae024ab21f93abd898730d658528d9488420a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioBiblioteca.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioBiblioteca.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

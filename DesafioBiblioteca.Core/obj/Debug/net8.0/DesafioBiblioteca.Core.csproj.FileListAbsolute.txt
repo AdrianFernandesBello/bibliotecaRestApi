@@ -9,3 +9,4 @@ C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debu
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\refint\DesafioBiblioteca.Core.dll
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.pdb
 C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\ref\DesafioBiblioteca.Core.dll
+C:\Users\User\source\repos\DesafioBiblioteca.API\DesafioBiblioteca.Core\obj\Debug\net8.0\DesafioBiblioteca.Core.sourcelink.json

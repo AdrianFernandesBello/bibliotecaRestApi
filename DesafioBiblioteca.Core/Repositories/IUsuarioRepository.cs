@@ -11,7 +11,7 @@ namespace DesafioBiblioteca.Core.Repositories
     {
         Task<List<Usuario>> GetAll();
         Task<Usuario> GetById(int id);
-        Task<int> Add(Usuario livro);
-        Task Update(Usuario livro);
+        Task<int> Add(Usuario usuario);
+        Task Update(Usuario usuario);
     }
 }

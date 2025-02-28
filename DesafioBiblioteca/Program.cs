@@ -6,12 +6,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-//builder.Services.AddScoped<IEmprestimoRepository, IEmprestimoRepository>();
-
 builder.Services
     .AddAplication()
     .AddInfrastructure(builder.Configuration);
+    
 
 var connectionstring = builder.Configuration.GetConnectionString("DesafioBibliotecaCs");
 

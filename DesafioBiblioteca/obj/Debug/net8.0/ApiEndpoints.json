@@ -116,7 +116,13 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "DesafioBiblioteca.Application.Commands.InsertLivro.InsertLivroCommand",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -146,6 +152,11 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "DesafioBiblioteca.Application.Commands.UpdateLivroCommand.UpdateLivroCommand",
         "IsRequired": true
       }
     ],
@@ -184,7 +195,13 @@
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "DesafioBiblioteca.Application.Commands.InsertUsuario.InsertUsuarioCommand",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -214,6 +231,11 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "DesafioBiblioteca.Application.Commands.UpdateUsuario.UpdateUsuarioCommand",
         "IsRequired": true
       }
     ],

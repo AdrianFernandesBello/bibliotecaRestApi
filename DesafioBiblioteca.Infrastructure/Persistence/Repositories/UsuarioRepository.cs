@@ -1,5 +1,6 @@
 ﻿using DesafioBiblioteca.Core.Entities;
 using DesafioBiblioteca.Core.Repositories;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,24 +11,50 @@ namespace DesafioBiblioteca.Infrastructure.Persistence.Repositories
 {
     public class UsuarioRepository : IUsuarioRepository
     {
-        public Task<int> Add(Usuario livro)
+        private readonly BibliotecaDbContext _context;
+        public UsuarioRepository(BibliotecaDbContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
         }
 
-        public Task<List<Usuario>> GetAll()
+        public async Task<int> Add(Usuario usuario)
         {
-            throw new NotImplementedException();
+             _context.Usuario.Add(usuario);
+
+            await _context.SaveChangesAsync();
+
+
+            return usuario.Id;
         }
 
-        public Task<Usuario> GetById(int id)
+        public async Task<List<Usuario>> GetAll()
         {
-            throw new NotImplementedException();
+            var usuarios = await _context.Usuario
+                .Include(x => x.Nome)
+                .Include(x => x.Email)
+                .ToListAsync();
+
+
+            return usuarios;
         }
 
-        public Task Update(Usuario livro)
+        public async Task<Usuario> GetById(int id)
         {
-            throw new NotImplementedException();
+            var usuarioid = await _context.Usuario
+                .Include(x => x.Nome)
+                .Include(x => x.Email)
+                .Include(x => x.DataNascimento)
+                .Include(x => x.CPF)
+                .SingleOrDefaultAsync( x => x.Id == id);
+
+            return usuarioid;
+        }
+
+        public async Task Update(Usuario usuario)
+        {
+            _context.Usuario.Update(usuario);
+            await _context.SaveChangesAsync();
+
         }
     }
 }
